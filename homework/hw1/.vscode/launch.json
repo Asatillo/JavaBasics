@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    
+    "configurations": [
+        {
+            "args": ["3", "5", "1", "-7", "2", "5", "8", "8", "-2", "10", "7", "-4", "-7", "4", "2", "2"],
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainRectangle",
+            "request": "launch",
+            "mainClass": "MainRectangle",
+            "projectName": "homework_f3d03ecd"
+        }
+    ]
+}
